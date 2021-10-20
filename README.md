@@ -1,3 +1,7 @@
+# ⚠️ Deprecated ⚠️
+
+This repository is deprecated. Please use [https://github.com/tidelift/alignment-action](https://github.com/tidelift/alignment-action) instead.
+
 # Tidelift Align GitHub Action
 
 The Tidelift Align GitHub action allows you to integrate a Tidelift

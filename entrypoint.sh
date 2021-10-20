@@ -4,6 +4,8 @@ set -e
 set -o pipefail
 set -x
 
+echo "⚠️ Warning: this Github Action is deprecated. Please usehttps://github.com/tidelift/alignment-action instead."
+
 echo "Downloading latest CLI"
 curl -s -o ./tidelift https://download.tidelift.com/cli/tidelift
 chmod +x ./tidelift
